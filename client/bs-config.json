@@ -1,0 +1,13 @@
+{
+    "files": ["./**/*.{html,htm,css,js,json}"],
+    "server": {
+        "baseDir": [
+          "./public",
+          "./src"
+        ],
+        "routes": {
+          "/libs": "./node_modules"
+        }
+      },
+    "port": "3000"
+}
