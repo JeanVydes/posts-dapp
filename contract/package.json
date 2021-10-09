@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "deploy": "truffle deploy && truffle migrate"
+  },
+  "dependencies": {
+    "@truffle/contract": "^4.3.38"
+  }
+}
