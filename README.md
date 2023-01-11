@@ -1,6 +1,6 @@
-# My first 3.0 Project 
+# Posts DApp
 
-An DAPP for make posts with a title, description and a display name.
+A DApp for make posts with a title, description and a display name.
 
 Based on Ethereum blockchain in the truffle framework.
 
